@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "react-icons": "^4.12.0"
+  }
+}
